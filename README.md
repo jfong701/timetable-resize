@@ -1,7 +1,7 @@
 # jfong701.github.io
-This chrome extension allows for the UTSC timetable site to displayed properly on windows less than 1000px wide.
+A chrome extension that allows for the UTSC timetable site to be displayed properly on windows less than 1000px wide.
 
-To use this extension, you must download the "extension-files" folder on to your computer.
+To use this extension, you must download the "extension-files" folder onto your computer.
 
 Steps to add extension to Chrome:
 1. Download the "extension-files" folder to your computer.
