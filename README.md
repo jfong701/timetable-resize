@@ -1,5 +1,5 @@
 # jfong701.github.io
-A chrome extension that allows for the [UTSC timetable site](http://www.utsc.utoronto.ca/~registrar/scheduling/timetable) to be displayed properly on windows less than 1000px wide.
+A chrome extension that allows for the [UTSC timetable site](https://www.utsc.utoronto.ca/regoffice/timetable/timetable.php) to be displayed properly on windows less than 1000px wide.
 
 To use this extension, you must download the "extension-files" folder onto your computer.
 
